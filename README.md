@@ -101,13 +101,13 @@ A web application that digitizes discipline records, making documentation, monit
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backendbyMel&layout=compact&theme=github_dark">
 
 </p> -->
-
+<!--
 <p align="center">
   ![Mel Liza's Github Stats](https://github-readme-stats.vercel.app/api?username=backendbyMel&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=backendbyMel&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 </p>
-
+ -->
 ---
 
 # 📚 Currently Learning
