@@ -143,7 +143,6 @@ A web application that digitizes discipline records, making documentation, monit
 [![The Career Chapter I’m Closing](https://ytcards.demolab.com/?id=NjOPN9bpSjY&title=The+Career+Chapter+I%E2%80%99m+Closing&lang=en&timestamp=1786447943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Career Chapter I’m Closing")](https://www.youtube.com/watch?v=NjOPN9bpSjY)
 <!-- END YOUTUBE-CARDS -->
 
-[![Watch the video](https://www.youtube.com/watch?v=NjOPN9bpSjY&list=PLEYPdV7s3P3g)](https://www.youtube.com/watch?v=NjOPN9bpSjY&list=PLEYPdV7s3P3g)
 
 <div align="center">
 
