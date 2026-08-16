@@ -136,7 +136,10 @@ A web application that digitizes discipline records, making documentation, monit
 - 🌐 Portfolio: Coming Soon
 
 ---
-# ![Youtube Icon](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/26efdc31-d457-4d96-91e3-067172ea6df8" />) My Youtube Channel
+# 🎥 My Latest Youtube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 [![Watch the video](https://www.youtube.com/watch?v=NjOPN9bpSjY&list=PLEYPdV7s3P3g)](https://www.youtube.com/watch?v=NjOPN9bpSjY&list=PLEYPdV7s3P3g)
 
