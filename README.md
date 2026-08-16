@@ -1,4 +1,4 @@
-<div align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/625cec5a-6c3f-453e-96bc-bebfc149db9a" /><div align="center">
 
 # 👋 Hi, I'm Mel Liza
 
@@ -136,6 +136,9 @@ A web application that digitizes discipline records, making documentation, monit
 - 🌐 Portfolio: Coming Soon
 
 ---
+# ![Youtube Icon](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/26efdc31-d457-4d96-91e3-067172ea6df8" />) My Youtube Channel
+
+[![Watch the video](https://www.youtube.com/watch?v=NjOPN9bpSjY&list=PLEYPdV7s3P3g)](https://www.youtube.com/watch?v=NjOPN9bpSjY&list=PLEYPdV7s3P3g)
 
 <div align="center">
 
