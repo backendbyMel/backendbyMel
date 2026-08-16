@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm currently an ICT teacher due to my scholarship in college but now wants to transition into Software Engineering 
+# 👋 Hi, I'm currently transitioning from ICT teaching into professional software engineering. 
 
 ### Computer Engineering Graduate • Python Backend Developer • Lifelong Learner
 
