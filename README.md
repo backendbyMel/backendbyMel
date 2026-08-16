@@ -1,12 +1,11 @@
 
 
-# 👋 Hi, I'm Mel Liza
+# 👋 Hi, I'm currently an ICT teacher due to my scholarship in college but now wants to transition into Software Engineering 
 
 ### Computer Engineering Graduate • Python Backend Developer • Lifelong Learner
 
 <p>
 I enjoy building software that solves real-world problems while continuously learning modern technologies.
-Currently transitioning from ICT teaching into professional software engineering.
 </p>
 
 <!-- <p>
