@@ -138,6 +138,7 @@ A web application that digitizes discipline records, making documentation, monit
 # 🎥 My Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Back to Code - Week 1](https://ytcards.demolab.com/?id=bQKyb4v8BBg&title=Back+to+Code+-+Week+1&lang=en&timestamp=1787500495&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Back to Code - Week 1")](https://www.youtube.com/shorts/bQKyb4v8BBg)
 [![The Lesson Goes Both Ways](https://ytcards.demolab.com/?id=f4mdwE3VhNI&title=The+Lesson+Goes+Both+Ways&lang=en&timestamp=1786546822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Lesson Goes Both Ways")](https://www.youtube.com/shorts/f4mdwE3VhNI)
 [![The Career Chapter I’m Closing](https://ytcards.demolab.com/?id=NjOPN9bpSjY&title=The+Career+Chapter+I%E2%80%99m+Closing&lang=en&timestamp=1786447943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Career Chapter I’m Closing")](https://www.youtube.com/watch?v=NjOPN9bpSjY)
 <!-- END YOUTUBE-CARDS -->
