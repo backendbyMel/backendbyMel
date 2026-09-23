@@ -135,12 +135,10 @@ A web application that digitizes discipline records, making documentation, monit
 - 🌐 Portfolio: Coming Soon
 
 ---
-# 🎥 My Latest Tiktok Videos
+# 🎥 My Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 <!-- END YOUTUBE-CARDS -->
-
 
 
 <div align="center">
