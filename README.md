@@ -135,11 +135,14 @@ A web application that digitizes discipline records, making documentation, monit
 - 🌐 Portfolio: Coming Soon
 
 ---
-# 🎥 My Latest Youtube Videos
+# 🎥 My Latest Tiktok Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
 <!-- END YOUTUBE-CARDS -->
+
+[![Watch the video](https://shields.io)](https://www.tiktok.com/@the_quiet_rebuild0/video/7688426401535446280?is_from_webapp=1&sender_device=pc)
+[![Watch the video](https://shields.io)](https://www.tiktok.com/@the_quiet_rebuild0/video/7687491252924796181?is_from_webapp=1&sender_device=pc)
 
 
 <div align="center">
