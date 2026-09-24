@@ -138,7 +138,7 @@ A web application that digitizes discipline records, making documentation, monit
 # 🎥 My Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![I left teaching to become a programmer](https://ytcards.demolab.com/?id=FWCegNBLe14&title=I+left+teaching+to+become+a+programmer&lang=en&timestamp=1790143615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I left teaching to become a programmer")](https://www.youtube.com/shorts/FWCegNBLe14)
 <!-- END YOUTUBE-CARDS -->
 
 
