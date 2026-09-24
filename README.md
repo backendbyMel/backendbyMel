@@ -138,6 +138,7 @@ A web application that digitizes discipline records, making documentation, monit
 # 🎥 My Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Coding is hard. Tama pa ba ito? Hahaha #careerchange  #startingover](https://ytcards.demolab.com/?id=T5GN2I9NQEs&title=Coding+is+hard.+Tama+pa+ba+ito%3F+Hahaha+%23careerchange++%23startingover&lang=en&timestamp=1790254730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding is hard. Tama pa ba ito? Hahaha #careerchange  #startingover")](https://www.youtube.com/shorts/T5GN2I9NQEs)
 [![I left teaching to become a programmer](https://ytcards.demolab.com/?id=FWCegNBLe14&title=I+left+teaching+to+become+a+programmer&lang=en&timestamp=1790143615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I left teaching to become a programmer")](https://www.youtube.com/shorts/FWCegNBLe14)
 <!-- END YOUTUBE-CARDS -->
 
