@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm currently transitioning from ICT teaching into professional software engineering. 
 
-### Computer Engineering Graduate • Python Backend Developer • Lifelong Learner
+### Python & Django Developer | Former ICT teacher who builds software | Computer Engineering graduate, DOST scholar | Software Engineer
 
 <p>
 I enjoy building software that solves real-world problems while continuously learning modern technologies.
