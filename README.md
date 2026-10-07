@@ -44,10 +44,11 @@ I enjoy building software that solves real-world problems while continuously lea
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+<!-- 
 ### Database
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
+-->
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -72,7 +73,6 @@ A web-based system designed to streamline classroom management by organizing stu
 - CSS
 - JavaScript
 - SQLite
-
 ---
 
 ## 📋 Student Discipline Record Management System
