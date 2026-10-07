@@ -1,6 +1,6 @@
 
 
-# Software Engineer | Python, FastAPI & Django REST Framework | Building Scalable Backend APIs & AI Integrations 
+# Python & Django Developer | Backend Developer | Software Engineer | Python, FastAPI & Django REST Framework | Building Scalable Backend APIs & AI Integrations 
 
 <p>
 I enjoy building software that solves real-world problems while continuously learning modern technologies.
