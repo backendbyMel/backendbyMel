@@ -136,8 +136,7 @@ A web application that digitizes discipline records, making documentation, monit
 # 🎥 My Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![A Quick Update of my life from ICT teacher to Developer](https://ytcards.demolab.com/?id=_oDgfrfnHkA&title=A+Quick+Update+of+my+life+from+ICT+teacher+to+Developer&lang=en&timestamp=1791204755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "A Quick Update of my life from ICT teacher to Developer")](https://www.youtube.com/watch?v=_oDgfrfnHkA)
-[![The Career Chapter I’m Closing](https://ytcards.demolab.com/?id=NjOPN9bpSjY&title=The+Career+Chapter+I%E2%80%99m+Closing&lang=en&timestamp=1786447943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Career Chapter I’m Closing")](https://www.youtube.com/watch?v=NjOPN9bpSjY)
+
 <!-- END YOUTUBE-CARDS -->
 
 
