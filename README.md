@@ -107,7 +107,7 @@ A web application that digitizes discipline records, making documentation, monit
  
 ---
 
-# 📚 Currently Learning
+<!-- # 📚 Currently Learning
 
 - Django REST Framework
 - FastAPI
@@ -119,7 +119,7 @@ A web application that digitizes discipline records, making documentation, monit
 - Cloud Deployment
 
 ---
-
+-->
 # 💡 Philosophy
 
 > *"Technology has the greatest impact when it solves real-world problems. Every project I build is another step toward becoming a better software engineer."*
