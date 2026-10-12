@@ -57,6 +57,7 @@ I enjoy building software that solves real-world problems while continuously lea
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
+<!--
 ---
 
 # 📂 Featured Projects
@@ -87,7 +88,7 @@ A web application that digitizes discipline records, making documentation, monit
 - CSS
 - JavaScript
 - SQLite
-
+-->
 ---
 
 # 📈 GitHub Statistics
